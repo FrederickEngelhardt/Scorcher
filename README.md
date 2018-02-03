@@ -27,20 +27,18 @@ Mac download and install the game. GamePad controls require proper installation 
 
 Control map for Xbox One controller:
 
-X -> de-accelerate (slow break)
-A -> accelerate
-B -> Air-brake (quick temporary break and resume original speed after release)
+* X -> de-accelerate (slow break)
+* A -> accelerate
+* B -> Air-brake (quick temporary break and resume original speed after release)
+* Left JoyStick -> Directional control of ship
+* Left trigger -> bank left
+* Right trigger -> bank right
 
-Left JoyStick -> Directional control of ship
-
-Left trigger -> bank left
-Right trigger -> bank right
-
-Controls:
-W (speed up)
-A (bank left)
-D(bank right
-S (slow down - very slowly happens)
-Z (air brake)
-C (swap camera from front to back)
-V (Swap from VR camera to normal camera)
+PC/Mac Controls:
+* W (speed up)
+* A (bank left)
+* D(bank right
+* S (slow down - very slowly happens)
+* Z (air brake)
+* C (swap camera from front to back)
+* V (Swap from VR camera to normal camera)
